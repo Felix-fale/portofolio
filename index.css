@@ -6,7 +6,7 @@ body{
 
 #contenu{
     background-color: whitesmoke;
-    margin: 100px 500px 0px;
+    margin: auto;
     text-align: center;
     display: flex;
     order-radius: 20px;
